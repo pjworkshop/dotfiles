@@ -1,2 +1,2 @@
-# dwm
-My custom patched Suckless DWM build
+# My Dotfiles
+Configs & builds I use every day.
