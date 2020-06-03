@@ -10,7 +10,7 @@ The [status bar](https://tools.suckless.org/slstatus/) I use, configured to show
 
 
 #### st ####
-My config of [Simple Terminal](https://st.suckless.org/). Work in progress due to problems with patches that I need to fix. Still very usable for the most part. My color scheme is a modified version of Google Dark with better highlighted colors.
+My build of [Simple Terminal](https://st.suckless.org/). Work in progress due to problems with patches that I need to fix. Still very usable for the most part. My color scheme is a modified version of Google Dark with better highlighted colors.
 
 
 #### Fonts ####
