@@ -19,5 +19,6 @@ My build of [Simple Terminal](https://st.suckless.org/). Work in progress due to
 
 
 #### Fonts ####
-https://dejavu-fonts.github.io/
+[DejaVu](https://dejavu-fonts.github.io/)
 
+[FontAwesome](https://fontawesome.com/how-to-use/on-the-desktop/setup/getting-started)
