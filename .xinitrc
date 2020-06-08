@@ -5,7 +5,7 @@ slstatus &
 # xrdb -merge ~/.Xresources &
 
 # Wallpaper
-feh --bg-scale ~/Pictures/wallpapers/minim.jpg &
+feh --bg-scale ~/Pictures/wallpapers/deb.png &
 
 # Start DWM
 exec dwm 
