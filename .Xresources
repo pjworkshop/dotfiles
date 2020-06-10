@@ -1,0 +1,89 @@
+!-------------------------------------------------------------------------------
+! Xft settings
+!-------------------------------------------------------------------------------
+
+Xft.dpi:                    96
+Xft.antialias:              true
+Xft.rgba:                   rgb
+Xft.hinting:                true
+Xft.hintstyle:              hintfull 
+
+!-------------------------------------------------------------------------------
+! URxvt settings
+!-------------------------------------------------------------------------------
+
+URxvt.depth:                32
+URxvt.background:           [95]#1d1f21
+URxvt.geometry:             90x30
+URxvt.transparent:          false
+URxvt.fading:               0
+URxvt.saveLines:            50
+URxvt.internalBorder:       3
+URxvt.lineSpace:            0
+
+! Fonts
+URxvt.allow_bold:           true 
+URxvt*font: xft:DejaVu Sans Mono:pixelsize=16
+URxvt*boldFont: xft:DejaVu Sans Mono:bold:pixelsize=16
+
+! Fix font space
+URxvt*letterSpace: -1
+
+! Scrollbar
+URxvt.scrollStyle:          rxvt
+URxvt.scrollBar:            false
+
+! Perl extensions
+URxvt.perl-ext-common:      default,matcher,font-size
+URxvt.matcher.button:       1
+URxvt.urlLauncher:          firefox
+
+! Cursor
+URxvt.cursorBlink:          true
+URxvt.cursorColor:          #c5c8c6
+URxvt.cursorUnderline:      false
+
+! Pointer
+URxvt.pointerBlank:         true
+
+
+!----------------------------------------------------------------------------------
+! URxvt Colors
+!---------------------------------------------------------------------------------
+
+! special
+*.foreground:   #c5c8c6
+*.background:   #1d1f21
+*.cursorColor:  #c5c8c6
+
+! black
+*.color0:       #1d1f21
+*.color8:       #969896
+
+! red
+*.color1:       #cc2b54
+*.color9:       #ee4183
+
+! green
+*.color2:       #01c66e
+*.color10:      #29fe95
+
+! yellow
+*.color3:       #face26
+*.color11:      #ffe05d
+
+! blue
+*.color4:       #398ded
+*.color12:      #4ac6ff
+
+! magenta
+*.color5:       #dd58c3
+*.color13:      #fe73ff
+
+! cyan
+*.color6:       #00e0ca
+*.color14:      #55fbf4
+
+! white
+*.color7:       #c5c8c6
+*.color15:      #ffffff
